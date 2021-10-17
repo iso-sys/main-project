@@ -1,0 +1,3 @@
+[submodule "sub-puroject"]
+	path = sub-puroject
+	url = git@github.com:iso-sys/sub-puroject.git
